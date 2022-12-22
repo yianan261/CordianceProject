@@ -99,7 +99,7 @@ Debra's Copy of Cordiance Project: Improved Brute Force: Tree, non-stop and stop
 CordianceProject2.ipynb: final project result 
 
 # Final report
-Full PDF report in "report"
+Full PDF report in "FinalProjectReport.pdf"
 
 # Result
 
