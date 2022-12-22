@@ -1,6 +1,6 @@
-# CordianceProject
+# Cordiance Project
 
-In this project, we need to map categories between 2 files. The first file, Avalara_goods_and_services.xlsx, is a well-structured file of goods and services with somewhat uniform fields; whereas the second file, UNSPSC_English.csv is hierarchical, but the fields are messy and non-uniform.
+In this project, we aim to map categories between 2 files by designing an efficient text-matching algorithm. The first file, Avalara_goods_and_services.xlsx, is a well-structured file of goods and services with somewhat uniform fields; whereas the second file, UNSPSC_English.csv is hierarchical, but the fields are messy and non-uniform.
 
 Our task is to map categories from the reference file: Avalara_goods_and_services.xlsx to the file UNSPSC_English.csv, clean and process data, design matching algorithms and report the number of valid matches and corresponding matching percentages.
 
